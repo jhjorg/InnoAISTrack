@@ -1,4 +1,4 @@
-urllib
+urllib.request
 bs4
 re
 pandas
