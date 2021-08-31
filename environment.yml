@@ -3,3 +3,8 @@ channels:
 dependencies:
   - ipyvolume
   - appmode
+  - bs4
+  - pandas
+  - numpy
+  - arcgis
+  - folium
