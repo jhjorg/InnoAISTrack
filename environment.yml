@@ -1,12 +1,10 @@
 channels:
   - conda-forge
-  - conda
-  - pip
 dependencies:
   - ipyvolume
   - appmode
   - bs4
   - pandas
   - numpy
-  - arcgis
+  - esri arcgis
   - folium
